@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Naimul Aziz, a Software Engineer with lots of hands-on experience in Java, C++, JavaScript, PHP, and more!
+Feel free to look around and critique my work. I am always looking to help improve myself as well as others.
+
+### Thank you!
 <!--
 **naimulaziz4/naimulaziz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
