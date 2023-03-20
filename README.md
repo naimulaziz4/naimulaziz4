@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Naimul Aziz, a Software Engineer with lots of hands-on experience in Java, C++, JavaScript, PHP, and more!
+I am Naimul Aziz, a Software Engineer with lots of experience in Java, C++, JavaScript, PHP, and more!
 Feel free to look around and critique my work. I am always looking to help improve myself as well as others.
 
 
